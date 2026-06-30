@@ -1,0 +1,11 @@
+/codeact-agent
+/codeact-agent.exe
+*.exe
+*.log
+.idea/
+.vscode/
+
+# sandbox scratch output from manually testing the agent against the
+# repo root as its own --root; not part of the deliverable
+/demo/
+/example.txt
